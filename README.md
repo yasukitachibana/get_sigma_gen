@@ -1,4 +1,5 @@
-### get_sigma_gen.py
+## get\_sigma\_gen.py
+
 This is the code to extract sigmaGen() and sigmaErr() from test_dat.out files of JETSCAPE and generate files storing them.
 The names of test_dat.out files must have the form of ```TestOutBin*_*.out```. 
 
