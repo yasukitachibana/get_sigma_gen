@@ -4,7 +4,9 @@ The names of test_dat.out files must have the form of ```TestOutBin*_*.out```.
 
 To run code, type
 
-  ```python get_sigma_gen.py [name of dirctory where you put test_dat.out files]```
+  ```
+  python get_sigma_gen.py [name of dirctory where you put test_dat.out files]
+  ```
   
 If you do not specify the name of the directory for the 1st argument in the command, the code trys to find test_dat.out files in the current directory.
 
